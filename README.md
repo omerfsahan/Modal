@@ -1,2 +1,2 @@
 # Modal
-This site was built using [GitHub Pages](https://pages.github.com/).
+Click this [link](https://omerfsahan.github.io/Modal/) for live example.
